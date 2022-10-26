@@ -1,0 +1,66 @@
+.hello{
+    font-family: inherit;
+    font-weight: 400;
+    line-height: 1.4;
+    color: inherit;
+    font-size: 28px;
+}
+.body{
+    padding-left: 35px!important;
+    padding-right: 50px!important;
+    
+}
+.welcome{
+    margin: 0 0 20px;
+}
+.h3{
+    font-family: inherit;
+    font-weight: 400;
+    line-height: 1.4;
+    color: inherit;
+}
+.progress1{
+    display:flex;
+   
+}
+.send{
+    font-weight: 600;
+}
+.zero{
+    opacity: 0.8;
+}
+.se{
+    margin-bottom: 0.7rem;
+    font-size: 1rem;
+    /* font-weight: 500; */
+    font-family: "Poppins", "Open Sans","Helvetica Neue",Arial,Helvetica,Verdana,sans-serif;
+    margin-bottom: 11px;
+    
+}
+.hh{
+    background-color: #00BCD4;
+    font-size: 16px;
+    border-radius: 20px;
+    padding: 5px 10px;
+    font-weight: normal;
+    color:white;
+}
+.from{
+    opacity: 0.8;
+    color: inherit!important;
+    font-weight: 600;
+}
+.statistics{
+    font-size: 20px;
+    font-family: inherit;
+    font-weight: 400;
+    line-height: 1.4;
+    color: inherit;
+}
+/* .percent{
+
+    justify-items: flex-end;
+    justify-content: flex-end;
+    align-content: flex-end;
+    align-items: flex-end;
+} */
